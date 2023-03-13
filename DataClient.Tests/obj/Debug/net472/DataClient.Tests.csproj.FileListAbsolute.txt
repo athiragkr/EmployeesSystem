@@ -1,0 +1,6 @@
+C:\Users\AthiraGopalakrishnan\source\repos\Employee-Manager-master\DataClient.Tests\obj\Debug\net472\DataClient.Tests.csproj.AssemblyReference.cache
+C:\Users\AthiraGopalakrishnan\source\repos\Employee-Manager-master\DataClient.Tests\obj\Debug\net472\DataClient.Tests.csproj.SuggestedBindingRedirects.cache
+C:\Users\AthiraGopalakrishnan\source\repos\Employee-Manager-master\DataClient.Tests\obj\Debug\net472\DataClient.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AthiraGopalakrishnan\source\repos\Employee-Manager-master\DataClient.Tests\obj\Debug\net472\DataClient.Tests.AssemblyInfoInputs.cache
+C:\Users\AthiraGopalakrishnan\source\repos\Employee-Manager-master\DataClient.Tests\obj\Debug\net472\DataClient.Tests.AssemblyInfo.cs
+C:\Users\AthiraGopalakrishnan\source\repos\Employee-Manager-master\DataClient.Tests\obj\Debug\net472\DataClient.Tests.csproj.CoreCompileInputs.cache
